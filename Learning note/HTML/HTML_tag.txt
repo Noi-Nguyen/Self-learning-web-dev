@@ -1,0 +1,24 @@
+# Notice
+We don't have to remember every tag because there are tone of them and we have many source to look up the tag anytime with the internet sources. However, we should remember some of the tags that we use regularly.
+# List of the basic tags we should remember
+	+ <p>The p tag stands for paragraph</p>
+	+ <a href="somelink">The a tag stands for anchor tag which defines a hyperlink to link to a specific URL </a>
+	+ <br> // This is the break tag to add a single line break
+	+ <h1> Header number 1 </h1>
+	  <h2> Header number 2 </h2>
+	  ...
+	  <h6> Header number 6 </h6>
+	+ <b>The b tag stands for bold tag</b>
+	  <strong>The strong tag has the same properties in appearance with bold</strong>
+	+ <i>The i tag stands for italic tag</i>
+	  <em>The em or emphasis tag has the same properties in appearance with italic</em>
+	+ The list tags:
+		Order list:
+		<ol>
+			<li>The first option</li>
+			<li>The second option</li>
+			<li>The third option</li>
+		</ol>
+		//When display
+		1. 
+	
