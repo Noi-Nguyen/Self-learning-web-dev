@@ -1,0 +1,25 @@
++ How to link the external CSS file to the HTML
+    In the <head> tag, add the <link rel="stylesheet" href="css_file.css">
++ How to use internal CSS ?
+    Use style="..." attribute in the tag
+    Use <style> ... </style> tag
++ CSS selector
+.class
+#id
+*    : all
+element
+element, element    : select element and element
+element1 element2   : select all element2 in the element1
+element1 > element2   : select element2 that is child of element1
+element1 + element2  : select element2 that are placed immediately after element1
+:hover              : when the mouse move to  
+:last-child         : select the first child of its parent
+:first-child        : select the last child of its parent
+:nth-child(n)    : Selects every element that is the nth child of its parent
+!important (not recommended)
+
+
+What seletors win out in the cascade depends on:
+-Specificity
+-Importance
+-Source Order

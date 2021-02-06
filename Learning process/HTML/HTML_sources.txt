@@ -1,4 +1,0 @@
-#SOME OF THE SOURCE TO FIND OUT MORE ABOUT HTML tags
-    - From w3school : https://www.w3schools.com/html/
-    - From freecodecamp : www.freecodecamp.org
-    - Quiz from w3school : https://www.w3schools.com/html/html_quiz.asp

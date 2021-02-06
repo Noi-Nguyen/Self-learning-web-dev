@@ -1,0 +1,23 @@
++ What is HTML ?
+    HTML is shorted for Hypertext Markup Language which is a language can contain the hyperlink (URLs, audios, videos, files, images,...)
++ New semantic  elements in HTML5 include header, nav, section, article, aside, footer
+|||||||||||||||||||||||||||||||||||||||||||||
+|               <Header>                    |
+|||||||||||||||||||||||||||||||||||||||||||||
+|                <Nav>                      |
+|||||||||||||||||||||||||||||||||||||||||||||
+|                           |               |
+|          <section>        |               |
+|                           |               |
+|||||||||||||||||||||||||||||   <aside>     |
+|                           |               |
+|         <article>         |               |
+|                           |               |
+|||||||||||||||||||||||||||||||||||||||||||||
+|                   <footer>                |
+|||||||||||||||||||||||||||||||||||||||||||||
+
++ Link for open source to get more information about HTML
+    www.w3schools.com
+    www.freecodecamp.org
+    developer.mozilla.org
