@@ -1,7 +1,12 @@
+html{
+    min-height: 100% !important;
+    height: 100%;
+}
+
 body{
     width: 100%;
-    height: 100%;
-    background: url(https://images.unsplash.com/photo-1483356256511-b48749959172?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80) no-repeat center center fixed; 
+    height:100%;
+    background: url(./dose-media-bU6JyhSI6zo-unsplash.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -9,20 +14,21 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 h1{
-    color:white;
+    color:black;
     font-size: 3rem;
 
 }
-hr:not([size]) {
+/* hr:not([size]) {
     height: 3px;
-}
+} */
 hr{
     opacity: 1;
-    color: #ff8c1a; 
+    background-color: #ff8c1a; 
     max-width: 65px;
     margin: auto;
     margin-top: 1rem;
     margin-bottom: 1rem;
+    height: 2px;
 }
 .btn{
     font-weight: 200;
@@ -40,4 +46,7 @@ hr{
 }
 .btn_xl{
     padding: 1rem 2rem;
+}
+.buffer{
+    height: 10rem;
 }
